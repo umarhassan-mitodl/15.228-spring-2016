@@ -1,0 +1,40 @@
+leftnav:
+- identifier: 80a47341-2c52-7322-ebe7-c1824904bd81
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 12be929f-8030-64a5-eb41-e0cb4fa867cd
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: e6e123ea-3387-ce86-f9b4-0b7558331e90
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 30
+- identifier: bcd573b1-6a2b-ef0d-575a-1a7a73701b59
+  name: MBA Study Tours and Their Desitinations
+  pageRef: /pages/instructor-insights/mba-study-tours-and-their-desitinations
+  parent: e6e123ea-3387-ce86-f9b4-0b7558331e90
+  weight: 40
+- identifier: 57c48a04-e2a0-5bb8-eae2-d04c1f33eadb
+  name: How the Course Is Structured
+  pageRef: /pages/instructor-insights/how-the-course-is-structured
+  parent: e6e123ea-3387-ce86-f9b4-0b7558331e90
+  weight: 50
+- identifier: e05c690d-c36c-e86a-a729-b9d2774ab6f6
+  name: What Makes the Course Unique
+  pageRef: /pages/instructor-insights/what-makes-the-course-unique
+  parent: e6e123ea-3387-ce86-f9b4-0b7558331e90
+  weight: 60
+- identifier: 31a01c15-3685-1c58-f068-5602a1b1cb7c
+  name: Readings
+  pageRef: /pages/readings
+  weight: 70
+- identifier: dc287240-5f97-d3f8-14b3-b8605cba4373
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 80
+- identifier: 17186243-973e-d33b-bc80-0450081a7b85
+  name: Deliverables
+  pageRef: /pages/deliverables
+  weight: 90
