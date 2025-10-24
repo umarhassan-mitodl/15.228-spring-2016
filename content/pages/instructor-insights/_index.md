@@ -13,7 +13,7 @@ uid: e6e123ea-3387-ce86-f9b4-0b7558331e90
 
 This page focuses on the course _15.228 MBA Study Tour: Innovation Islands - How New Zealand Became A Global Player in the Race to Innovate_ as it was taught by Neal Hartman in Spring 2016.
 
-Part of the {{% resource_link "d9f40129-e1b9-4d7b-8570-474aa5aef0be" "Sloan Innovation Period (SIP)" %}}, this Study Tour visited New Zealand during the first half of the spring 2016 semester. The course curriculum was proposed by a student planning team and included MIT-based classroom sessions featuring faculty, industry and cultural experts. After completing the classroom sessions, students went on New Zealand site visits to meet with industry and government leaders, as well as local alumni.
+Part of the [Sloan Innovation Period (SIP)](http://mitsloan.mit.edu/mba/program-components/personalized-curriculum/sloan-innovation-period/), this Study Tour visited New Zealand during the first half of the spring 2016 semester. The course curriculum was proposed by a student planning team and included MIT-based classroom sessions featuring faculty, industry and cultural experts. After completing the classroom sessions, students went on New Zealand site visits to meet with industry and government leaders, as well as local alumni.
 
 ## Course Outcomes
 
@@ -45,7 +45,7 @@ _Below, Natalie Pitcher, a member of the Study Tour student organizing team and 
 
 ### Key Learning
 
-The New Zealand Study Tour focused on MIT's {{% resource_link "5537e5d7-a24b-4103-9f53-64fddf3eb0cc" "Regional Entrepreneurship Acceleration Program (REAP)" %}} framework, which is grounded in the need for collaboration amongst five stakeholders within the entrepreneurial ecosystem. Given this lens, as I traveled throughout New Zealand I gained respect for the real world difficulty in producing real change within an ecosystem, given the number of people who must be aligned to truly accelerate change.
+The New Zealand Study Tour focused on MIT's [Regional Entrepreneurship Acceleration Program (REAP)](http://reap.mit.edu/) framework, which is grounded in the need for collaboration amongst five stakeholders within the entrepreneurial ecosystem. Given this lens, as I traveled throughout New Zealand I gained respect for the real world difficulty in producing real change within an ecosystem, given the number of people who must be aligned to truly accelerate change.
 
 ### Advice for Other Students
 
@@ -78,7 +78,7 @@ Every spring semester, although the focus of the Study Tour differs with each of
 Student learning was assessed based on the completion of a number of {{% resource_link 17186243-973e-d33b-bc80-0450081a7b85 "deliverables" %}}, including:
 
 - Company overview summary
-- Essay on the assessment of {{% resource_link "9b4b3342-0924-4dab-a9ce-d75112ce29ff" "REAP" %}} stakeholders in New Zealand
+- Essay on the assessment of [REAP](http://reap.mit.edu/about/) stakeholders in New Zealand
 - News brief and presentation
 - Key takeaway summaries
 - Presentation at the MIT Sloan Action Learning Poster Day
